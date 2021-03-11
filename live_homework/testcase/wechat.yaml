@@ -1,0 +1,23 @@
+wechat:
+  addmemberdatas:
+    - - A
+      - B
+      - 13538965211
+    - - 111
+      - 2
+      - 13538965212
+    - - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      - A00001
+      - 13538965213
+    - - A00002
+      - AAAAAAAAAAAAAAAAAAAA
+      - 13538965214
+    - - A00003
+      - A00001
+      - 1353896521
+  myid:
+    - 'first'
+    - 'second'
+    - 'third'
+    - 'fourth'
+    - 'fifth'
